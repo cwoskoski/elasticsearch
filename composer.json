@@ -1,5 +1,5 @@
 {
-    "name": "cvtrust/elasticsearch",
+    "name": "cwoskoski/elasticsearch",
     "description": "Elasticsearch client for hyperf",
     "license": "MIT",
     "type": "library",
